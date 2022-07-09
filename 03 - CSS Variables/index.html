@@ -95,20 +95,20 @@
       }
       //--------------------------------------------------My solution------------------------------------------------
       //it returns a NodeList which not have all lovely array methods so in some situations we will convert it to array
-      let inputs = document.querySelectorAll(".controls input");
-      function handleUpdate() {
-        //dataset returns an object that return all data-* attributes of the element
-        //blur,spacing have data-sizing="px" and base doesn't have
-        const suffix = this.dataset.sizing || "";
-        document.documentElement.style.setProperty(
-          `--${this.name}`,
-          this.value + suffix
-        );
-      }
-      inputs.forEach((input) => input.addEventListener("change", handleUpdate));
-      inputs.forEach((input) =>
-        input.addEventListener("mousemove", handleUpdate)
-      );
+      // let inputs = document.querySelectorAll(".controls input");
+      // function handleUpdate() {
+      //dataset returns an object that return all data-* attributes of the element
+      //blur,spacing have data-sizing="px" and base doesn't have
+      //   const suffix = this.dataset.sizing || "";
+      //   document.documentElement.style.setProperty(
+      //     `--${this.name}`,
+      //     this.value + suffix
+      //   );
+      // }
+      // inputs.forEach((input) => input.addEventListener("change", handleUpdate));
+      // inputs.forEach((input) =>
+      //   input.addEventListener("mousemove", handleUpdate)
+      // );
     </script>
   </body>
 </html>
