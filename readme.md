@@ -7,7 +7,7 @@ No frameworks, no libraries, no wrappers... just pure VanillaJS ;)
 ## Table Of Contents
 
 1. [x] ~~[JavaScript Drum Kit](https://github.com/HazemAbdo/javascript-30/tree/main/01%20-%20JavaScript%20Drum%20Kit)~~
-2. [] [JS + CSS Clock]()
+2. [x] ~~[JS + CSS Clock](https://github.com/HazemAbdo/javascript-30/tree/main/02%20-%20JS%20and%20CSS%20Clock)~~
 3. [] [CSS Variables]()
 4. [] [Array Cardio, Day 1]()
 5. [] [Flex Panel Gallery]()
