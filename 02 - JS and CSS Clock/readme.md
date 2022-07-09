@@ -1,6 +1,6 @@
 > This is a JavaScript practice with [JavaScript30](https://javascript30.com/) by [Wes Bos](https://github.com/wesbos) without any frameworks, no compilers, no boilerplate, and no libraries.
 
-# 01 - Js and CSS clock
+# 02 - Js and CSS clock
 
 Analog clock made with HTML,CSS and JavaScript
 
@@ -12,7 +12,7 @@ Analog clock made with HTML,CSS and JavaScript
 
 ### Tricks
 
-1. Transform origiin
+1. Transform origin
 
 the default of `transform:rotation` is to rotate from the origin`transform-origin: 50%` of the shape and in the case of a clock we want its hands to rotate from the right corner so we set `transform-origin: 100%`
 
