@@ -9,7 +9,7 @@ No frameworks, no libraries, no wrappers... just pure VanillaJS ;)
 1. [x] ~~[JavaScript Drum Kit](https://github.com/HazemAbdo/javascript-30/tree/main/01%20-%20JavaScript%20Drum%20Kit)~~
 2. [x] ~~[JS + CSS Clock](https://github.com/HazemAbdo/javascript-30/tree/main/02%20-%20JS%20and%20CSS%20Clock)~~
 3. [x] ~~[CSS Variables](https://github.com/HazemAbdo/javascript-30/tree/main/03%20-%20CSS%20Variables)~~
-4. [] [Array Cardio, Day 1]()
+4. [x] ~~[Array Cardio, Day 1](https://github.com/HazemAbdo/javascript-30/tree/main/04%20-%20Array%20Cardio%20Day%201)~~
 5. [] [Flex Panel Gallery]()
 6. [] [Type Ahead]()
 7. [] [Array Cardio, Day 2]()
